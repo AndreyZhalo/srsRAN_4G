@@ -9,7 +9,6 @@ srsRAN is an open source 4G software radio suite developed by [SRS](http://www.s
 See the [srsRAN 4G project pages](https://www.srsran.com) for information, guides and project news.
 
 The srsRAN suite includes:
-  * srsUE - a full-stack SDR 4G UE application with prototype 5G features
   * srsENB - a full-stack SDR 4G eNodeB application
   * srsEPC - a light-weight 4G core network implementation with MME, HSS and S/P-GW
 
